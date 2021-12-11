@@ -2,7 +2,7 @@
 	"name": "Caldera",
 	"type": "dark",
 	"colors": {
-		"terminal.foreground": "#F7C902",
+		"terminal.foreground": "#32CD32",
 		"editorIndentGuide.background": "#3f3802",
 		"sideBar.background": "#000000",
 		"activityBar.background": "#000000",
@@ -156,7 +156,7 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#C3E88D"
+				"foreground": "#F7C902"
 			}
 		},
 		{
@@ -360,7 +360,7 @@
 				"source.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#C792EA"
+				"foreground": "#32CD32"
 			}
 		},
 		{
@@ -369,7 +369,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#FFCB6B"
+				"foreground": "#FF9527"
 			}
 		},
 		{
