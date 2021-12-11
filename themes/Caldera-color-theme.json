@@ -2,6 +2,7 @@
 	"name": "Caldera",
 	"type": "dark",
 	"colors": {
+		"terminal.foreground": "#F7C902",
 		"editorIndentGuide.background": "#3f3802",
 		"sideBar.background": "#000000",
 		"activityBar.background": "#000000",
