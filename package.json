@@ -3,6 +3,20 @@
     "displayName": "Caldera",
     "description": "A VS code theme for the volcano color lovers",
     "version": "0.0.1",
+    "publisher": "CalderaTheme",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/panospd/Caldera"
+    },
+    "keywords": [
+        "theme",
+        "dark theme",
+        "caldera",
+        "caldera theme",
+        "volcano",
+        "volcano dark",
+        "black theme"
+    ],
     "engines": {
         "vscode": "^1.63.0"
     },
