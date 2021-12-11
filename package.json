@@ -4,6 +4,7 @@
     "description": "A VS code theme for the volcano color lovers",
     "version": "1.1.1",
     "publisher": "CalderaTheme",
+    "icon": "calderascreenshot.png",
     "repository": {
         "type": "git",
         "url": "https://github.com/panospd/Caldera"
