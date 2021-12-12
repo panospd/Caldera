@@ -12,9 +12,9 @@ To override this (or any other) theme in your personal config file, please follo
 ![caldera c# screenshot](https://raw.githubusercontent.com/panospd/Caldera/master/calderascreenshot.png?raw=true)
 
 ## ts
-![caldera ts screenshot](https://raw.githubusercontent.com/panospd/Caldera/master/calderatsscreenshot.png?raw=true)
+![caldera ts screenshot](https://raw.githubusercontent.com/panospd/Caldera/master/calderatsscreenshot.PNG?raw=true)
 
 ## vue
-![caldera vue screenshot](https://raw.githubusercontent.com/panospd/Caldera/master/calderavuescreenshot.png?raw=true)
+![caldera vue screenshot](https://raw.githubusercontent.com/panospd/Caldera/master/calderavuescreenshot.PNG?raw=true)
 
 
