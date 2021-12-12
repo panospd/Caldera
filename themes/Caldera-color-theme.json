@@ -9,7 +9,7 @@
 		"editor.background": "#000",
 		"statusBar.background": "#272424a9",
 		"statusBar.foreground": "#ffffff",
-		"editor.foreground": "#eeffff",
+		"editor.foreground": "#FF00FF",
 		"activityBarBadge.background": "#007acc",
 		"sideBarTitle.foreground": "#bbbbbb"
 	},
